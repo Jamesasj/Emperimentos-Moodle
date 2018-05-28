@@ -1,5 +1,3 @@
-php5 php5-curl
+Experimentos com o plugin
 
-
-Adicionar a função de leitura do arquivo de configuração do Moodle.
-Melhorar a organização do JSON do Moodle, todas as submissões devem estar atreladas ao aluno, novo campo no objeto aluno.
+Atividade da disciplica de MEIA 2018.1 para levantamento de possiveis problemas em uma ferramenta de extração de dados de AVA's
