@@ -4,3 +4,4 @@ download.php
 lib/*
 ws/*
 arquivos/*
+*.conf
